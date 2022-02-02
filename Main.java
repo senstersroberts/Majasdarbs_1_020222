@@ -7,10 +7,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-		
-		// Random edits
-		System.out.println("Edit1 pēc github");
-		
 
         Scanner scan = new Scanner(System.in);
         Random r = new Random();
